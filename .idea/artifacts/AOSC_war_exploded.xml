@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AOSC:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/AOSC_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="AOSC/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AOSC" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
